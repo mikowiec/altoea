@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Altoea.Framework.Models
 {
-    public class RecordModel
+    public class RecordBase
     {
         /// <summary>
         /// record title
